@@ -1,4 +1,4 @@
-## Hi there, [Samujjwaal](https://samujjwaal.me) here 👋🏼👨🏻‍💻
+## Hi there, [Notradice]() here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-aepiramida@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aepiramida@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Chumakov-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexchumakou/ "Connect on LinkedIn")
@@ -6,9 +6,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@notradice-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=notradice "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/alexsey.erma "Connect on Facebook")
 
-<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+<a href="https://samujjwaal.me/"><img src="https://www.telix.pl/wp-content/uploads/2023/09/3ccf209eaf32533d19f5b1408ad4de1d-sticker.png" align="right" height="150" /></a>
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 150.000 человек. Зв время преподавтаельсккой деятельности обучил более 4000 студентов на разных платформах.
+I am a manual tester. I have been living in Warsaw for 8 years. I speak Polish, Russian and English. I solve a rubik's cube in 15 seconds :) The main domain is web testing (front + back) and mobile applications.
 
 - 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between

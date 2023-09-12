@@ -8,12 +8,11 @@
 
 <a href="https://samujjwaal.me/"><img src="https://www.telix.pl/wp-content/uploads/2023/09/3ccf209eaf32533d19f5b1408ad4de1d-sticker.png" align="right" height="150" /></a>
 
-I am a manual tester. I have been living in Warsaw for 8 years. I speak Polish, Russian and English. I solve a rubik's cube in 15 seconds :) The main domain is web testing (front + back) and mobile applications.
+I am a manual tester. I have been living in Warsaw for 8 years. I speak Polish, Russian and English. The main domain is web testing (front + back) and mobile applications.
 
-- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+- 📭 Reach out for help with testing
+- 💬 Talk to me about bugs, how you can find all the bugs and that testing is not important for business
+- 👾 Fun fact: I solve a rubik's cube in 15 seconds :) 
 
 
 [![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)

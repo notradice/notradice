@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@notradice-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=notradice "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/alexsey.erma "Connect on Facebook")
 
-<a href="https://samujjwaal.me/"><img src="https://www.telix.pl/wp-content/uploads/2023/09/3ccf209eaf32533d19f5b1408ad4de1d-sticker.png" align="right" height="150" /></a>
+<a href="https://github.com/notradice/"><img src="https://www.telix.pl/wp-content/uploads/2023/09/3ccf209eaf32533d19f5b1408ad4de1d-sticker.png" align="right" height="150" /></a>
 
 I am a manual tester. I have been living in Warsaw for 8 years. I speak Polish, Russian and English. The main domain is web testing (front + back) and mobile applications.
 
@@ -15,7 +15,7 @@ I am a manual tester. I have been living in Warsaw for 8 years. I speak Polish, 
 - 👾 Fun fact: I solve a rubik's cube in 15 seconds :) 
 
 
-[![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/notradice/notradice/commits)
 
 
 ---

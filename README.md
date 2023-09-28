@@ -74,6 +74,17 @@ I am a manual tester. I have been living in Warsaw for 8 years. I speak Polish, 
 
 ---
 
+### ✏️ Mobile:
+
+<div>
+  <img src="https://avatars.mds.yandex.net/i?id=1106f4591d60d7f36c871451edd5a36824c1ec3b-5232197-images-thumbs&n=13" title="Browserstack" alt="git" width="70" height="50"/>&nbsp
+  <img src="https://avatars.mds.yandex.net/i?id=806487b414ab75e6df2d25672a379bd4463b79b5-4575589-images-thumbs&n=13" title="Samsung Developers" alt="bash" width="130" height="50"/>&nbsp
+  <img src="https://avatars.mds.yandex.net/i?id=ce9f351f7677f3a5d79ae30a04fbd7b58a9da6c6-10636727-images-thumbs&n=13" title="Genymotion" alt="vscode" width="50" height="50"/>&nbsp
+</div>
+
+---
+
+
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
